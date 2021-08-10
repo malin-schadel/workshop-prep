@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica;
+}
+
+h1 {
+	color: #3d2d00;
+}
+
+
+#logo {
+	width: 160px;
+}
+
+.container {
+    text-align: center;
+    border: 4px solid #f05033;
+    padding: 36px;
+    margin: 12%;
+}
